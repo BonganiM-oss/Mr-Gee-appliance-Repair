@@ -1,0 +1,8 @@
+{
+  "name": "Mr G Appliance Repair",
+  "description": "Fast, reliable appliance repairs across Gauteng (Johannesburg, Pretoria, West Rand, East Rand). Over 15 years experience fixing washing machines, fridges, TVs, microwaves, stoves, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
