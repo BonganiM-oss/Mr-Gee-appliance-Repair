@@ -1,5 +1,5 @@
 import React from 'react';
-import mrGeeLogoImg from '../assets/images/mr_gee_logo_1790254118863.jpg';
+import mrGeeLogoImg from '../assets/mr_gee_logo_1790254118863-CWXHtqNN.jpg';
 
 interface LogoProps {
   className?: string;
